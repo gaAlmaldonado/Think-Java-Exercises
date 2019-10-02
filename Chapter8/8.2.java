@@ -45,7 +45,7 @@
       int pear = 0;
       for (int pine: a){
          if (pine == apple){
-            pear++
+            pear++;
          }
       }
       return pear;
